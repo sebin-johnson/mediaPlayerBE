@@ -1,0 +1,111 @@
+{
+  "videos": [
+    {
+      "caption": "Arabic Kuthu",
+      "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273013d4c16601d3664ade27872",
+      "embeddedLink": "https://www.youtube.com/embed/KUN5Uf9mObQ",
+      "id": 1
+    },
+    {
+      "caption": "Ordinary Person",
+      "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27329369874cd836dc35a40a980",
+      "embeddedLink": "https://www.youtube.com/embed/q6e_b0NERCA",
+      "id": 2
+    },
+    {
+      "caption": "Naa Ready",
+      "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27322184598701ab40d70bf75a1",
+      "embeddedLink": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "id": 3
+    },
+    {
+      "caption": "Oo Antava",
+      "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2735d10ca5f50f7e9abca322956",
+      "embeddedLink": "https://www.youtube.com/embed/u_wB6byrl5k",
+      "id": 4
+    },
+    {
+      "caption": "Laila Main Laila",
+      "thumbnailUrl": "https://i.scdn.co/image/ab67616d00001e02c14b924b97bbbe9b28341c54",
+      "embeddedLink": "https://www.youtube.com/embed/95I5VaR7GeU",
+      "id": 5
+    },
+    {
+      "caption": "Aathi",
+      "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273da54b6edee7dcfde6c258f14",
+      "embeddedLink": "https://www.youtube.com/embed/YQ6ShcAU_dQ",
+      "id": 6
+    },
+    {
+      "caption": "Nakka Mukka",
+      "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2735495fb170bf023362fd4609d",
+      "embeddedLink": "https://www.youtube.com/embed/zMs-VMzDCtE",
+      "id": 7
+    },
+    {
+      "caption": "Illuminati",
+      "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP-7mj9M_5ThWT4bYir7sYBvCChbtZlAP17w&s",
+      "embeddedLink": "https://www.youtube.com/embed/yH7eDWTH5iM",
+      "id": 8
+    },
+    {
+      "caption": "Maate Vinadhuga",
+      "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273b25186ce963e3c84b513f33d",
+      "embeddedLink": "https://www.youtube.com/embed/kca0cG9fiQw",
+      "id": 9
+    },
+    {
+      "caption": "Pathikichu",
+      "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273d7db1f369f82121b534754fa",
+      "embeddedLink": "https://www.youtube.com/embed/Vt2CiopGsnM",
+      "id": 10
+    },
+    {
+      "caption": "Ennilerinju",
+      "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27316100f20b1ede5b4272102bd",
+      "embeddedLink": "https://www.youtube.com/embed/N_Usrc7Xvxw",
+      "id": 11
+    },
+    {
+      "caption": "Starboy",
+      "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+      "embeddedLink": "https://www.youtube.com/embed/34Na4j8AVgA",
+      "id": 12
+    }
+  ],
+  "categories": [
+    {
+      "Genre": "Malayalam",
+      "allVideos": [],
+      "id": 1
+    },
+    {
+      "Genre": "Tamil",
+      "allVideos": [],
+      "id": 2
+    },
+    {
+      "Genre": "Hindi",
+      "allVideos": [],
+      "id": 3
+    },
+    {
+      "Genre": "English",
+      "allVideos": [],
+      "id": 4
+    },
+    {
+      "Genre": "Telugu",
+      "allVideos": [],
+      "id": 5
+    }
+  ],
+  "history": [
+    {
+      "caption": "Nakka Mukka",
+      "embeddedLink": "https://www.youtube.com/embed/zMs-VMzDCtE",
+      "time": "17-3-2025 11:57",
+      "id": 1
+    }
+  ]
+}
