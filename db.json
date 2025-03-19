@@ -71,41 +71,117 @@
       "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
       "embeddedLink": "https://www.youtube.com/embed/34Na4j8AVgA",
       "id": 12
+    },
+    {
+      "caption": "Ey Banane",
+      "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27308ec59b2157bff530072c42c",
+      "embeddedLink": "https://www.youtube.com/embed/I0p_eYcDCXA",
+      "id": 13
+    },
+    {
+      "caption": "Shape of You",
+      "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27383e9b06ccd219248b5301264",
+      "embeddedLink": "https://www.youtube.com/embed/vEmRD9QEpVh",
+      "id": 14
+    },
+    {
+      "caption": "Chikini Chameli",
+      "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273d54393280e88a142bf31265f",
+      "embeddedLink": "https://www.youtube.com/embed/rpwbmH4CkRg",
+      "id": 15
+    },
+    {
+      "caption": "Ringa Ringa",
+      "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2738335d4c9f1240433714f0a33",
+      "embeddedLink": "https://www.youtube.com/embed/xlCsw9PkZCj",
+      "id": 16
     }
   ],
   "categories": [
     {
       "Genre": "Malayalam",
-      "allVideos": [],
+      "allVideos": [
+        {
+          "caption": "Illuminati",
+          "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP-7mj9M_5ThWT4bYir7sYBvCChbtZlAP17w&s",
+          "embeddedLink": "https://www.youtube.com/embed/yH7eDWTH5iM",
+          "id": 8
+        },
+        {
+          "caption": "Ennilerinju",
+          "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27316100f20b1ede5b4272102bd",
+          "embeddedLink": "https://www.youtube.com/embed/N_Usrc7Xvxw",
+          "id": 11
+        }
+      ],
       "id": 1
     },
     {
       "Genre": "Tamil",
-      "allVideos": [],
+      "allVideos": [
+        {
+          "caption": "Arabic Kuthu",
+          "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273013d4c16601d3664ade27872",
+          "embeddedLink": "https://www.youtube.com/embed/KUN5Uf9mObQ",
+          "id": 1
+        },
+        {
+          "caption": "Nakka Mukka",
+          "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2735495fb170bf023362fd4609d",
+          "embeddedLink": "https://www.youtube.com/embed/zMs-VMzDCtE",
+          "id": 7
+        },
+        {
+          "caption": "Aathi",
+          "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273da54b6edee7dcfde6c258f14",
+          "embeddedLink": "https://www.youtube.com/embed/YQ6ShcAU_dQ",
+          "id": 6
+        },
+        {
+          "caption": "Ordinary Person",
+          "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27329369874cd836dc35a40a980",
+          "embeddedLink": "https://www.youtube.com/embed/q6e_b0NERCA",
+          "id": 2
+        }
+      ],
       "id": 2
     },
     {
       "Genre": "Hindi",
-      "allVideos": [],
+      "allVideos": [
+        {
+          "caption": "Chikini Chameli",
+          "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273d54393280e88a142bf31265f",
+          "embeddedLink": "https://www.youtube.com/embed/rpwbmH4CkRg",
+          "id": 15
+        },
+        {
+          "caption": "Laila Main Laila",
+          "thumbnailUrl": "https://i.scdn.co/image/ab67616d00001e02c14b924b97bbbe9b28341c54",
+          "embeddedLink": "https://www.youtube.com/embed/95I5VaR7GeU",
+          "id": 5
+        }
+      ],
       "id": 3
     },
     {
       "Genre": "English",
-      "allVideos": [],
+      "allVideos": [
+        {
+          "caption": "Shape of You",
+          "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27383e9b06ccd219248b5301264",
+          "embeddedLink": "https://www.youtube.com/embed/vEmRD9QEpVh",
+          "id": 14
+        },
+        {
+          "caption": "Starboy",
+          "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+          "embeddedLink": "https://www.youtube.com/embed/34Na4j8AVgA",
+          "id": 12
+        }
+      ],
       "id": 4
-    },
-    {
-      "Genre": "Telugu",
-      "allVideos": [],
-      "id": 5
     }
   ],
-  "history": [
-    {
-      "caption": "Nakka Mukka",
-      "embeddedLink": "https://www.youtube.com/embed/zMs-VMzDCtE",
-      "time": "17-3-2025 11:57",
-      "id": 1
-    }
-  ]
+  "history": []
 }
